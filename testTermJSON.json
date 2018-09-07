@@ -1,0 +1,37 @@
+{"TermList":[
+    {
+        
+        "PollingTime": "21:59:59",
+        "EffectTime": "23:19:59",
+        "TransSize": "25200",         
+     	"termID": "1234567",   
+        "rpreTID": "1234567890123",
+        "Vendor": "Vendor1",
+        "Model": "S1",
+        "pid": "",
+        "Group": "Group1",        
+        "Merchant": "North",      
+        "Store": "store1"          
+    
+    } , 
+    {
+        
+        "PollingTime": "23:59:59",
+        "EffectTime": "23:59:59",
+        "TransSize": "25200",         
+     	"termID": "234567891234567",   
+        "rpreTID": "1234567890123",
+        "Vendor": "Vendor1",
+        "Model": "S1",
+        "pid": "",
+        "Group": "Group1",        
+        "Merchant": "North",      
+        "Store": "store1"          
+    
+    } 
+     
+]
+
+}
+
+
